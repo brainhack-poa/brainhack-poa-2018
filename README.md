@@ -49,7 +49,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 
 ## Location
 
-Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www.pucrs.br/crialab). 
+Brainhack @ Porto Alegre will be held in partnership and at [AGES](http://www.ages.pucrs.br/). 
 
 ## Ideas for Projects
 -
