@@ -16,6 +16,13 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 - Tuesday 1st May: Registration Closes
 - Friday - Saturday, 4 - 5 May: Brainhack @ Porto Alegre
 
+## Support
+
+| Site Support  | School Support|
+| ------------- |:-------------:|
+| Ages          | Polytechnic School |
+
+
 ## Local Schedule
 
 ### Friday 4th May
