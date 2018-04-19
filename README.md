@@ -6,14 +6,14 @@ This is the website with information for the local Porto Alegre branch of [Brain
 
 The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, instructions to register are available below: 
 
-[Register Here](https://www.eventbrite.com/e/brainhack-global-porto-alegre-tickets-31284891954)
+[Register Here](https://www.eventbrite.com/e/brainhack-global-porto-alegre-2018-tickets-44489789157)
 
 *You have 2 days to pay after your application. Your place on Brainhack will only be confirmed after payment.
 
 ## Key Dates
 
-- Sunday 1st April: Registration Opens
-- Tuesday 1st May: Registration Closes
+- Sunday 18th April: Registration Opens
+- Tuesday 3rd May: Registration Closes
 - Friday - Saturday, 4 - 5 May: Brainhack @ Porto Alegre
 
 ## Support
@@ -49,7 +49,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 
 ## Location
 
-Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www.pucrs.br/crialab). 
+Brainhack @ Porto Alegre will be held in partnership and at [AGES](http://www.ages.pucrs.br). 
 
 ## Ideas for Projects
 -
