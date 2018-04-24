@@ -55,8 +55,11 @@ Brainhack @ Porto Alegre will be held in partnership and at [AGES](http://www.ag
 ## Local Organisation
 
 Felipe Meneguzzi, PhD
+
 Augusto Buchweitz, PhD
+
 Nathalia Bianchini Esper, MS
+
 Laura Thomaz
 
 
