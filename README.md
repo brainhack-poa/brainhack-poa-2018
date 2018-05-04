@@ -63,9 +63,10 @@ Laura Thomaz
 
 
 ## Ideas for Projects
--
--
-- 
+- Multimodal fMRI
+- Neuroimage group site on github
+- Voxel intensity normalization
+- Machine learning
 
 
 ## Links
