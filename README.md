@@ -30,7 +30,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 50,00**, 
 - 9:00  - BrainHack Opening
 - 9:30  - Welcome to BrainHack
 - 10:00 - Introduction of Participants and Project Pitch
-- 10:30 - Morning Talk: Github and Versioning (https://github.com/brainhack-poa/brainhack-poa-2018/brainhack-git-2018.pdf)- Felipe Meneguzzi, PhD
+- 10:30 - Morning Talk: [Github and Versioning] (https://github.com/brainhack-poa/brainhack-poa-2018/blob/master/brainhack-git-2018.pdf)- Felipe Meneguzzi, PhD
 - 11:00 - Coffee
 - 11:20 - Open Hacking (ongoing)
 - 12:30 - Lunch
